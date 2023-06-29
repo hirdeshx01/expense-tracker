@@ -19,3 +19,7 @@ Created a Flutter expense tracker app that is both simple and effective. It make
 <img src="assets/screenshots/d3.png" width="30%" />
 </div>
 </div>
+
+## :arrow_down: Download
+
+Download the latest stable version from [GitHub releases](https://github.com/hirdeshx01/expense-tracker/releases/latest)
