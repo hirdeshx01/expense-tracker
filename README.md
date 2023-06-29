@@ -20,6 +20,8 @@ Created a Flutter expense tracker app that is both simple and effective. It make
 </div>
 </div>
 
+---
+
 ## :arrow_down: Download
 For most devices, it is recommended to install the **arm64-v8a** version of the apks
 - Download the latest stable version from [GitHub releases](https://github.com/hirdeshx01/expense-tracker/releases/latest)
